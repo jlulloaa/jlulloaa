@@ -10,8 +10,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate developing software tools for the medical imaging industry
 - 🤔 I’m looking for help with javascript and databases
 - 💬 Ask me about:
-  - <code><img height="40" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png"></code>
-  - <code><img height="40" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
+  - <a href="https://opencv.org/"> <img height="40" src="https://github.com/github/explore/blob/main/topics/opencv/opencv.png"></a>
+  - <a href="https://www.python.org/"> <img height="40" src="https://github.com/github/explore/blob/main/topics/python/python.png"></a>
 
 - 📫 How to reach me: 
 

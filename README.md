@@ -14,6 +14,8 @@ Here are some ideas to get you started: -->
   - <code><img height="40" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
 - 📫 How to reach me: 
-
+<a href="https://www.linkedin.com/in/joseulloa/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 - ⚡ Some fancy stats about me and my work
+- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jlulloaa&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jlulloaa)

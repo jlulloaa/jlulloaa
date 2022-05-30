@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🏫 I’m working as a project engineer at a university and a freelance data scientist 🧠
 - 🧭 I’m studying to become a full-stack web developer 
-
+- 🛠️ Some of my work [here](jlulloaa.github.io) 
 
 - 🤝 I’m looking to collaborate developing software tools for the medical imaging industry 🩻
 

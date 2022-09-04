@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 <a href="https://www.instagram.com/jlua1975"	target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 </p>
 
-- 🏫 I’m working as a project engineer at a university and a freelance data scientist 🧠
+- 🏫 I’m working as project engineer at a university and as freelance data scientist 🧠
 - 🧭 I’m studying to become a full-stack web developer 
 - 🛠️ Some of my work [here](https://jlulloaa.github.io) 
 

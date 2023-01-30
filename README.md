@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 </p>
 
 - 🏫 I’m working as project engineer at a university and as freelance data scientist 🧠
-- 🧭 I’m studying to become a full-stack web developer 
+- 🧭 I’m a full-stack web developer (MERN stack)
 - 🛠️ Some of my work [here](https://jlulloaa.github.io) 
 
 - 🤝 I’m looking to collaborate developing software tools for the medical imaging industry 🩻
